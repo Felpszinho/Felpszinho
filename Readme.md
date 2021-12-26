@@ -4,7 +4,7 @@
 😀-Cursando Faculdade de Analise e desenvolvimentos de Sistemas
 
 
-😁-estudando front-end  e mobline :htmls,css,bootstrap,javascript,reactjs,Dart,flutter
+😁-estudando front-end   :htmls,css,bootstrap,react
 
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
