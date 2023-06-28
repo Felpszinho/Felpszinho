@@ -1,7 +1,7 @@
 #ola eu sou luiz felipe mahcahdo#
 
 🎒- tenho nivel intermediario em c# e java orientado a objeto versionamento com git 
-😀-Cursando Faculdade de Analise e desenvolvimentos de Sistemas
+
 
 
 😁-desenvolvedor front-end
