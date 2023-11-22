@@ -1,4 +1,4 @@
-#ola eu sou luiz felipe machahdo#
+#ola eu sou Luiz Felipe Machahdo#
 
 🎒- tenho nivel intermediario em c# e java orientado a objeto versionamento com git 
 
