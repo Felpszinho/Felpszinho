@@ -10,11 +10,13 @@
 
 ###
 
-<h3 align="left">Linguagens & Frameworks</h3>
+<br clear="both">
+
+<h3 align="center">Linguagens & Frameworks</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -42,7 +44,11 @@
 
 ###
 
-<div align="left">
+<h3 align="center">Social Medias</h3>
+
+###
+
+<div align="center">
   <a href="felpsdev95@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -51,9 +57,13 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dxbvVHJkUh5HagZ7HI0nFw.gif"  />
+<div align="center">
+  <img height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dxbvVHJkUh5HagZ7HI0nFw.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Felpszinho/Felpszinho/output/snake.svg" alt="Snake animation" />
 
