@@ -1,23 +1,23 @@
-#ola eu sou Luiz Felipe Machado#
 
 
 
 
-😁-desenvolvedor front-end pela Ebac
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h1 align="left">Olá?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Sou o Luiz Felipe Machado</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">Desenvolvedor Front End </p>
 
 ###
 
