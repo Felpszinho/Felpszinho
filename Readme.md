@@ -57,12 +57,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dxbvVHJkUh5HagZ7HI0nFw.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Felpszinho/Felpszinho/output/snake.svg" alt="Snake animation" />
